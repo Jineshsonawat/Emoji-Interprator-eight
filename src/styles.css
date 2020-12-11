@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.heading {
+  margin-top: 1rem;
+  padding: 0.5rem;
+}
+.Input {
+  width: 25%;
+  height: 3vh;
+}
